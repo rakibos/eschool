@@ -192,12 +192,12 @@
   padding: 55px;
 }
 
-.courses .citems {
+.citems {
   display: flex;
   gap: 30px;
 }
 
-.courses .citems .course {
+.citems .course {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -210,11 +210,11 @@
   border-radius: 18px;
 }
 
-.courses .citems .course img {
+.citems .course img {
   width: 100%;
 }
 
-.courses .citems .course .cinfo {
+.cinfo {
   align-self: flex-start;
   padding: 19px 0;
 }
@@ -248,7 +248,7 @@
   margin-top: 15px;
 }
 
-.courses .citems .course .cfooter {
+.cfooter {
   display: flex;
   width: 100%;
   justify-content: space-between;
@@ -261,7 +261,7 @@
   justify-content: center;
 }
 
-.courses .citems .course .cfooter img {
+.cfooter img {
   width: 30px;
 }
 
