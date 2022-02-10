@@ -147,7 +147,7 @@
   flex-direction: column;
   background: #f8fffb;
   border-radius: 10px;
-  height: 270px;
+  min-height: 270px;
   flex-basis: 100px;
   flex-grow: 1;
   font-weight: 500;
@@ -203,7 +203,7 @@
   align-items: center;
   justify-content: space-between;
   flex-direction: column;
-  height: 483px;
+  min-height: 483px;
   padding: 16px;
   padding-bottom: 30px;
   background: #ffffff;
